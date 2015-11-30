@@ -1,0 +1,5 @@
+4th May 2009:
+=============
+1. Hex mode does not work properly. It is turned off by default.
+2. Extensive testing required. Probably has lots of broken piece of code.
+
